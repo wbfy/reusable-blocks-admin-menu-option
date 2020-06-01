@@ -13,13 +13,9 @@ This plugin adds an entry to the admin menu for quick access to the Manage Reusa
 
 == Description ==
 
-You can already access the Manage Reusable Blocks page from within the Gutenberg block editor
-by using the option in the Reusable section of the add block dialog. However, especially
-when building a new site, I have found this to be quite a lot of clicks just to make a
-quick change.
+You can already access the Manage Reusable Blocks page from within the Gutenberg block editor by using the option in the Reusable section of the add block dialog. However, especially when building a new site, I have found this to be quite a lot of clicks just to make a quick change.
 
-This is a simple little plugin that adds an entry into the admin menu for quicker direct
-access to the page.
+This is a simple little plugin that adds an entry into the admin menu for quicker direct access to the page.
 
 
 = How To Use =
