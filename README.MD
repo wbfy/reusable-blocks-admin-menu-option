@@ -7,7 +7,7 @@ Reusable Blocks page
 
 ## Description
 
-You can already access the Manage Reusable Blocks page from within the Gutenberg block editor
+You can access the Manage Reusable Blocks page from within the Gutenberg block editor
 by using the option in the Reusable section of the add block dialog. However, especially
 when building a new site, I have found this to be quite a lot of clicks just to make a
 quick change.
