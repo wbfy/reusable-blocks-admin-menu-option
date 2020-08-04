@@ -2,7 +2,7 @@
 Contributors: websitesbuiltforyou
 Tags: admin menu, reusable blocks
 Requires at least: 5.0
-Tested up to: 5.4
+Tested up to: 5.5
 Requires PHP: 5.6
 Stable tag: /truck/
 License: GPLv2 or later
