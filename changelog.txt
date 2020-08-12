@@ -9,3 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [1.0.0] - 2020-06-02
 ### Added
 - This plugin and associated code initial release
+
+## [1.0.1] - 2020-08-12
+### Added
+- Tested with WordPress 5.5 and upped test to version

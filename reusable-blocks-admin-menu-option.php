@@ -5,7 +5,7 @@
  * Description: Add an entry to the admin menu for quick access to the Manage Reusable Blocks page
  * Author: Websites Built For You
  * Author URI: https://websitesbuiltforyou.com
- * Version: 1.0.0
+ * Version: 1.0.1
  * License: GPLv2 or later
  * License URI: https://www.gnu.org/licenses
  * Text Domain: reusable-blocks-admin-menu-option
@@ -34,7 +34,7 @@ namespace WBFY\ReusableBlocksAdminMenuOption;
 defined( 'ABSPATH' ) || exit;
 
 if ( ! class_exists( '\WBFY\ReusableBlocksAdminMenuOption\Controller' ) ) {
-	define( 'WBFY\ReusableBlocksAdminMenuOption\VERSION', '1.0.0' );
+	define( 'WBFY\ReusableBlocksAdminMenuOption\VERSION', '1.0.1' );
 	define( 'WBFY\ReusableBlocksAdminMenuOption\PLUGIN_DIR', untrailingslashit( plugin_dir_path( __FILE__ ) ) );
 
 	require_once PLUGIN_DIR . '/src/includes/class-autoloader.php';
