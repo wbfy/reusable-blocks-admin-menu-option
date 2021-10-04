@@ -32,7 +32,7 @@ class Controller {
 		add_menu_page(
 			esc_html__( 'Reusable Blocks', 'reusable-blocks-admin-menu-option' ),
 			esc_html__( 'Reusable Blocks', 'reusable-blocks-admin-menu-option' ),
-			'read',
+			'delete_published_posts',
 			'edit.php?post_type=wp_block',
 			'',
 			'',
